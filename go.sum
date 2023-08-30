@@ -497,8 +497,6 @@ github.com/iden3/go-circuits v1.0.3 h1:mZqHvuXIAjCQdwRFiq2472KYfKHtzomYoKu0BtF3+
 github.com/iden3/go-circuits v1.0.3/go.mod h1:YbuzfvSyr8BwNHnjRJEvnRQ2lJKzVQ9Sgz3OAdqv5Is=
 github.com/iden3/go-iden3-auth v1.2.0 h1:4Eyybrp7zWRRRTHNMTRrk1KqeTSpJWUONYprIWn2a/4=
 github.com/iden3/go-iden3-auth v1.2.0/go.mod h1:U4cIskebspRrtg1I3WAbT3mKVb4w83xmXRPqiVBnji0=
-github.com/iden3/go-iden3-core v1.0.2 h1:HwNDFeqcUv4ybZj5tH+58JKWKarn/qqBpNCqTLxGP0Y=
-github.com/iden3/go-iden3-core v1.0.2/go.mod h1:X4PjlJG8OsEQEsSbzzYqqAk2olYGZ2nuGqiUPyEYjOo=
 github.com/iden3/go-iden3-crypto v0.0.15 h1:4MJYlrot1l31Fzlo2sF56u7EVFeHHJkxGXXZCtESgK4=
 github.com/iden3/go-iden3-crypto v0.0.15/go.mod h1:dLpM4vEPJ3nDHzhWFXDjzkn1qHoBeOT/3UEhXsEsP3E=
 github.com/iden3/go-jwz v1.0.0 h1:tRyAMK9unf21z8uNvJ8V2LFvXdlYZe7pgRE7V19Q/vs=
@@ -936,6 +934,8 @@ github.com/securego/gosec/v2 v2.15.0/go.mod h1:VOjTrZOkUtSDt2QLSJmQBMWnvwiQPEjg0
 github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
 github.com/shazow/go-diff v0.0.0-20160112020656-b6b7b6733b8c h1:W65qqJCIOVP4jpqPQ0YvHYKwcMEMVWIzWC5iNQQfBTU=
 github.com/shazow/go-diff v0.0.0-20160112020656-b6b7b6733b8c/go.mod h1:/PevMnwAxekIXwN8qQyfc5gl2NlkB3CQlkizAbOkeBs=
+github.com/shibaone/go-iden3-core v1.0.3-alpha.2 h1:pTtwE2BX+WpVKpOzoaywdx/5oI6Pi5iYqdPnQegPxO0=
+github.com/shibaone/go-iden3-core v1.0.3-alpha.2/go.mod h1:X4PjlJG8OsEQEsSbzzYqqAk2olYGZ2nuGqiUPyEYjOo=
 github.com/shirou/gopsutil v3.21.11+incompatible h1:+1+c1VGhc88SSonWP6foOcLhvnKlUeu/erjjvaPEYiI=
 github.com/shirou/gopsutil v3.21.11+incompatible/go.mod h1:5b4v6he4MtMOwMlS0TUMTu2PcXUg8+E1lC7eC3UO/RA=
 github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24/go.mod h1:M+9NzErvs504Cn4c5DxATwIqPbtswREoFCre64PpcG4=
