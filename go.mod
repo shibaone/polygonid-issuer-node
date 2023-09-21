@@ -327,3 +327,5 @@ require (
 	mvdan.cc/lint v0.0.0-20170908181259-adc824a0674b // indirect
 	mvdan.cc/unparam v0.0.0-20221223090309-7455f1af531d // indirect
 )
+
+replace github.com/iden3/go-iden3-core => github.com/shibaone/go-iden3-core v1.0.3-alpha.2
